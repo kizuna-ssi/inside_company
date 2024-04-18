@@ -35,8 +35,9 @@
 <section>
 
 <div class="h-adr">
+<iframe name="to_success" style="display:none;" onload="if(submitted){window.location='finish.html';}"></iframe>
 <form class="form1" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfW-YUbsQ-KmlhxRUh4fMPr0_6fkDhiewcZR_NlZI_zWVHe8w/formResponse"
-  method="post" target="hidden_iframe" onsubmit="submitted=true;">
+  method="post" target="to_success" onsubmit="submitted=true;">
   
 <h2>対応記録</h2>
 
@@ -133,8 +134,6 @@
 <!--ページの上部へ戻るボタン-->
 <div class="pagetop"><a href="#"><i class="fas fa-angle-double-up"></i></a></div>
 
-<script type="text/javascript">let submitted = false;</script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display: none" onload="if(submitted)  {window.location='finish.html';}"></iframe>
   
 </body>
 </html>
