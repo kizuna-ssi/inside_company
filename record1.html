@@ -34,10 +34,18 @@
 
 <section>
 
+<script>
+  var submitted = false; // submitted変数を定義し、初期値をfalseに設定する
+
+  function handleFormSubmit() {
+    submitted = true; // フォームが送信されたらsubmittedをtrueに設定する
+  }
+</script>
+  
 <div class="h-adr">
 <iframe name="to_success" style="display:none;" onload="if(submitted){window.location='finish.html';}"></iframe>
 <form class="form1" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfW-YUbsQ-KmlhxRUh4fMPr0_6fkDhiewcZR_NlZI_zWVHe8w/formResponse"
-  method="post" target="to_success" onsubmit="submitted=true;">
+  method="post" target="to_success" onsubmit="handleFormSubmit();">
   
 <h2>対応記録</h2>
 
