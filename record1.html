@@ -37,7 +37,6 @@
 <div class="h-adr">
 <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfW-YUbsQ-KmlhxRUh4fMPr0_6fkDhiewcZR_NlZI_zWVHe8w/formResponse"
   method="post" id="order_form" class="form1">
-<span class="p-country-name" style="display:none;">Japan</span>
   
 <h2>対応記録</h2>
 
@@ -45,8 +44,8 @@
 <tr>
 <th>対応日時</th>
 <td>
-  <input type="date" name="entry.1084012273" size="30" class="ws" required="required" autocomplete="off" style="display: inline-block;width: 200px;">
-  <input type="time" name="entry.1729057004" size="30" class="ws" required="required" autocomplete="off" style="display: inline-block;width: 200px;">
+  <input type="date" name="entry.1084012273" size="30" class="ws" style="display: inline-block;width: 200px;">
+  <input type="time" name="entry.1729057004" size="30" class="ws" style="display: inline-block;width: 200px;">
 </td>
 </tr>
 <tr>
@@ -68,24 +67,40 @@
          <option value="苦情">苦情</option>
          <option value="その他">その他</option>
         </select>         
-
 </div></td>
 </tr>
 <tr>
 <th>お名前</th>
-<td><input type="text" name="お名前" size="30" class="ws" required="required" autocomplete="on"></td>
+<td><input type="text" name="entry.11171077" size="30" class="ws"></td>
 </tr>
 <tr>
 <th>電話番号</th>
-<td><input type="tel" name="電話番号" size="30" class="ws" required="required" autocomplete="off"></td>
+<td><input type="tel" name="entry.1166974658" size="30" class="ws"></td>
 </tr>
 <tr>
 <th>メール<br class="br-sp">アドレス</th>
-<td><input type="email" name="メールアドレス" size="30" class="ws" required="required" autocomplete="off"></td>
+<td><input type="email" name="entry.1045781291" size="30" class="ws"></td>
 </tr>
 <tr>
-<th>お問合せ内容</th>
-<td><textarea name="お問合せ内容" cols="30" rows="10" class="wl" required="required" autocomplete="off" style="height: 200px;"></textarea></td>
+<th>対応履歴</th>
+<td><textarea name="entry.839337160" cols="30" rows="10" class="wl" style="height: 200px;"></textarea></td>
+</tr>
+<tr>
+<th>メモ</th>
+<td><textarea name="entry.1523673400" cols="30" rows="10" class="wl" style="height: 200px;"></textarea></td>
+</tr>
+<tr>
+<th>結果区分</th>
+<td>
+<div class="select1">
+<select name="entry.63116262">
+ <option value="">　</option>
+ <option value="完了">完了</option>
+ <option value="継続"></option>
+ <option value="その他">その他</option>
+</select>
+</div>
+</td>
 </tr>
 </table>
 
@@ -116,8 +131,6 @@
 
 <!--ページの上部へ戻るボタン-->
 <div class="pagetop"><a href="#"><i class="fas fa-angle-double-up"></i></a></div>
-
-<script src="https://yubinbango.github.io/yubinbango/yubinbango.js" charset="UTF-8"></script>
   
 </body>
 </html>
