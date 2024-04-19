@@ -688,7 +688,7 @@ main {
 
 .select2{
    display: flex;
-   width: 150px;
+   width: 100%;
    align-items: center;
 }
 
@@ -700,7 +700,8 @@ main {
    font-size: 17px;
    color: #666666;
    text-align: center;
-   background-color:#fff;	
+   background-color:#fff;
+   width: 150px;
 }
 
 .ws{
