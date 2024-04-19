@@ -35,22 +35,19 @@ input {
   width: 100%;
   height: 50px;
   border-radius: 25px;
-  color: rgb(200, 210, 240);
-  -webkit-text-fill-color: rgb(200, 210, 240);
+  color: #111;
+  -webkit-text-fill-color: #111;
   background-color: #def2f5;
   font-size: 40px;
 }
-input::placeholder {
-  font-family: "Orbitron", sans-serif;
-  color: rgb(20, 40, 80);
-  -webkit-text-fill-color: rgb(20, 40, 80);
-}
+
 form {
   text-align: center;
   margin: calc(50vh - 100px) auto 0;
   max-width: 400px;
   width: 90vw;
 }
+
 p {
   word-wrap: break-word;
   overflow-wrap: break-word;
