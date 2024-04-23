@@ -4,6 +4,7 @@ $(document).ready(function(){
         // フォームの各要素の値を取得
         var datePicker = $('#datepicker').val();
         var addressName = $('#addressname').val();
+        var Honor = $('#honor').val();
         var contractorPostalCode = $('#contractor_postal_code').val();
         var contractorAddress = $('#contractor_address').val();
         var contractorBuilding = $('#contractor_building').val();
@@ -21,7 +22,8 @@ $(document).ready(function(){
         
         // 取得した値を各Labelにセット
         $('.datePickerLabel').text(datePicker);
-        $('.addressNameLabel').text(addressName);       
+        $('.addressNameLabel').text(addressName);
+        $('.honorLabel').text(Honor);
         $('.contractor_postal_codeLabel').text(contractorPostalCode);
         $('.contractor_addressLabel').text(contractorAddress);
         $('.contractor_buildingLabel').text(contractorBuilding);
