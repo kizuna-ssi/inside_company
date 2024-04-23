@@ -998,3 +998,31 @@ main {
        text-align: center;
        margin: auto;
 }
+
+.record2 .ta5{
+	width: 90%;
+	font-size: 0.8em;
+	padding: 1px;
+	margin: auto;
+}
+
+.record2 .ta5 tr{
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+}
+
+.record2 .ta5 th{
+	background-color: #fff;
+	padding: 2px;
+	border-left: 1px solid #fff;
+	border-right: 1px solid #fff;
+	vertical-align: middle;
+}
+
+.record2 .ta5 td{
+	text-align: center;
+	padding: 2px;
+	border-left: 1px solid #fff;
+	border-right: 1px solid #fff;
+	vertical-align: middle;
+}
