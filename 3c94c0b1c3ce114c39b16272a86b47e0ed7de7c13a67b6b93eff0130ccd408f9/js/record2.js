@@ -2,7 +2,25 @@ $(document).ready(function(){
     // フォームの要素が変更された時の処理
     $('.form1 input, .form1 select').change(function(){
         // フォームの各要素の値を取得
-        var datePicker = $('#datepicker').val();
+        var datePickerValue = $('#datepicker').val();
+
+        // 年、月、日に分割
+        var dateObj = new Date(datePickerValue);
+        var year = dateObj.getFullYear();
+        var month = (dateObj.getMonth() + 1).toString().padStart(2, '0');
+        var day = dateObj.getDate().toString().padStart(2, '0');
+
+        // ラベルに表示
+        $('.yearLabel').text(year);
+        $('.monthLabel').text(month);
+        $('.dayLabel').text(day);
+    });
+});
+
+$(document).ready(function(){
+    // フォームの要素が変更された時の処理
+    $('.form1 input, .form1 select').change(function(){
+        // フォームの各要素の値を取得
         var addressName = $('#addressname').val();
         var Honor = $('#honor').val();
         var contractorPostalCode = $('#contractor_postal_code').val();
@@ -20,7 +38,6 @@ $(document).ready(function(){
         var Sending5_1 = $('#sending5_1').val();
         
         // 取得した値を各Labelにセット
-        $('.datePickerLabel').text(datePicker);
         $('.addressNameLabel').text(addressName);
         $('.honorLabel').text(Honor);
         $('.contractor_postal_codeLabel').text(contractorPostalCode);
