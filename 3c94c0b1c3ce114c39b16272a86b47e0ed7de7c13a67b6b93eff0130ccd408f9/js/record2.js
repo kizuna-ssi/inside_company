@@ -18,10 +18,14 @@ $(document).ready(function(){
         var Sending3_1 = $('#sending3_1').val();
         var Sending4_1 = $('#sending4_1').val();
         var Sending5_1 = $('#sending5_1').val();
-        
+
+         // yyyy年MM月dd日の形式に変換
+        var dateObj = new Date(datePickerValue);
+        var formattedDate = dateObj.getFullYear() + '年' 
+            + (dateObj.getMonth() + 1).toString().padStart(2, '0') + '月' + dateObj.getDate().toString().padStart(2, '0') + '日';
         
         // 取得した値を各Labelにセット
-        $('.datePickerLabel').text(datePicker);
+        $('.datePickerLabel').text(formattedDate);
         $('.addressNameLabel').text(addressName);
         $('.honorLabel').text(Honor);
         $('.contractor_postal_codeLabel').text(contractorPostalCode);
