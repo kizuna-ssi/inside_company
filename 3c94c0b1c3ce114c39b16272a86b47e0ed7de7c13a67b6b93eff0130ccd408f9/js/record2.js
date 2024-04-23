@@ -24,17 +24,17 @@ $(document).ready(function(){
         $('.addressNameLabel').text(addressName);       
         $('.contractor_postal_codeLabel').text(contractorPostalCode);
         $('.contractor_addressLabel').text(contractorAddress);
-        $('.contractor_buildingLabel').text(contractorBbuilding);
+        $('.contractor_buildingLabel').text(contractorBuilding);
         $('.sending1Label').text(Sending1);
-        $('.sending1Labe2').text(Sending2);
-        $('.sending1Labe3').text(Sending3);
-        $('.sending1Labe4').text(Sending4);
-        $('.sending1Labe5').text(Sending5);
-        $('.sending1Label_1').text(Sending1_1);
-        $('.sending1Labe2_1').text(Sending2_1);
-        $('.sending1Labe3_1').text(Sending3_1);
-        $('.sending1Labe4_1').text(Sending4_1);
-        $('.sending1Labe5_1').text(Sending5_1);
+        $('.sending2Label').text(Sending2);
+        $('.sending3Label').text(Sending3);
+        $('.sending4Label').text(Sending4);
+        $('.sending5Label').text(Sending5);
+        $('.sending1_1Label').text(Sending1_1);
+        $('.sending2_1Label').text(Sending2_1);
+        $('.sending3_1Label').text(Sending3_1);
+        $('.sending4_1Label').text(Sending4_1);
+        $('.sending5_1Label').text(Sending5_1);
        
     });
 });
