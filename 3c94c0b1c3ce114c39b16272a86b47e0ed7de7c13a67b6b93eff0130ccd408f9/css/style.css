@@ -1026,3 +1026,31 @@ main {
 	border-right: 1px solid #fff;
 	vertical-align: middle;
 }
+
+.record2 .ta6{
+	width: 80%;
+	font-size: 0.8em;
+	padding: 1px;
+	margin: auto;
+}
+
+.record2 .ta6 tr{
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+
+.record2 .ta6 th{
+	background-color: #fff;
+	padding: 2px;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	vertical-align: middle;
+}
+
+.record2 .ta6 td{
+	text-align: center;
+	padding: 2px;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	vertical-align: middle;
+}
