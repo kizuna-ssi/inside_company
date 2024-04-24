@@ -1050,7 +1050,7 @@ main {
 .record2 .ta6 td{
 	text-align: left;
 	padding: 2px;
-	border-left: 1px solid #ccc;
-	border-right: 1px solid #ccc;
+	border-left: 1px solid #fff;
+	border-right: 1px solid #fff;
 	vertical-align: middle;
 }
