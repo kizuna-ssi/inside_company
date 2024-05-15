@@ -778,304 +778,304 @@ function calculatePremium() {
       document.getElementById("product").innerText = "201,000円/月";
     } else if (a == 50 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "3330";
-      document.getElementById("product").innerText = "1,200円/月";
+      document.getElementById("product").innerText = "3,330円/月";
     } else if (a == 51 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "3360";
-      document.getElementById("product").innerText = "1,260円/月";
+      document.getElementById("product").innerText = "3,360円/月";
     } else if (a == 52 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "3390";
-      document.getElementById("product").innerText = "1,350円/月";
+      document.getElementById("product").innerText = "3,390円/月";
     } else if (a == 53 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "3480";
-      document.getElementById("product").innerText = "1,440円/月";
+      document.getElementById("product").innerText = "3,480円/月";
     } else if (a == 54 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "3600";
-      document.getElementById("product").innerText = "1,500円/月";
+      document.getElementById("product").innerText = "3,600円/月";
     } else if (a == 55 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "3720";
-      document.getElementById("product").innerText = "1,560円/月";
+      document.getElementById("product").innerText = "3,720円/月";
     } else if (a == 56 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "3840";
-      document.getElementById("product").innerText = "1,620円/月";
+      document.getElementById("product").innerText = "3,840円/月";
     } else if (a == 57 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "3960";
-      document.getElementById("product").innerText = "1,680円/月";
+      document.getElementById("product").innerText = "3,960円/月";
     } else if (a == 58 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "4050";
-      document.getElementById("product").innerText = "1,740円/月";
+      document.getElementById("product").innerText = "4,050円/月";
     } else if (a == 59 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "4170";
-      document.getElementById("product").innerText = "1,860円/月";
+      document.getElementById("product").innerText = "4,170円/月";
     } else if (a == 60 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "4320";
-      document.getElementById("product").innerText = "1,950円/月";
+      document.getElementById("product").innerText = "4,320円/月";
     } else if (a == 61 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "4440";
-      document.getElementById("product").innerText = "2,100円/月";
+      document.getElementById("product").innerText = "4,440円/月";
     } else if (a == 62 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "4590";
-      document.getElementById("product").innerText = "2,220円/月";
+      document.getElementById("product").innerText = "4,590円/月";
     } else if (a == 63 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "4740";
-      document.getElementById("product").innerText = "2,370円/月";
+      document.getElementById("product").innerText = "4,740円/月";
     } else if (a == 64 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "4890";
-      document.getElementById("product").innerText = "2,520円/月";
+      document.getElementById("product").innerText = "4,890円/月";
     } else if (a == 65 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "5040";
-      document.getElementById("product").innerText = "2,700円/月";
+      document.getElementById("product").innerText = "5,040円/月";
     } else if (a == 66 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "5250";
-      document.getElementById("product").innerText = "2,880円/月";
+      document.getElementById("product").innerText = "5,250円/月";
     } else if (a == 67 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "5490";
-      document.getElementById("product").innerText = "3,090円/月";
+      document.getElementById("product").innerText = "5,490円/月";
     } else if (a == 68 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "5760";
-      document.getElementById("product").innerText = "3,330円/月";
+      document.getElementById("product").innerText = "5,760円/月";
     } else if (a == 69 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "6090";
-      document.getElementById("product").innerText = "3,600円/月";
+      document.getElementById("product").innerText = "6,090円/月";
     } else if (a == 70 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "6480";
-      document.getElementById("product").innerText = "3,930円/月";
+      document.getElementById("product").innerText = "6,480円/月";
     } else if (a == 71 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "6900";
-      document.getElementById("product").innerText = "4,290円/月";
+      document.getElementById("product").innerText = "6,900円/月";
     } else if (a == 72 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "7380";
-      document.getElementById("product").innerText = "4,710円/月";
+      document.getElementById("product").innerText = "7,380円/月";
     } else if (a == 73 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "7920";
-      document.getElementById("product").innerText = "5,130円/月";
+      document.getElementById("product").innerText = "7,920円/月";
     } else if (a == 74 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "8460";
-      document.getElementById("product").innerText = "5,610円/月";
+      document.getElementById("product").innerText = "8,460円/月";
     } else if (a == 75 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "9060";
-      document.getElementById("product").innerText = "6,180円/月";
+      document.getElementById("product").innerText = "9,060円/月";
     } else if (a == 76 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "9870";
-      document.getElementById("product").innerText = "6,930円/月";
+      document.getElementById("product").innerText = "9,870円/月";
     } else if (a == 77 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "10980";
-      document.getElementById("product").innerText = "7,860円/月";
+      document.getElementById("product").innerText = "10,980円/月";
     } else if (a == 78 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "12480";
-      document.getElementById("product").innerText = "8,940円/月";
+      document.getElementById("product").innerText = "12,480円/月";
     } else if (a == 79 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "14430";
-      document.getElementById("product").innerText = "10,170円/月";
+      document.getElementById("product").innerText = "14,430円/月";
     } else if (a == 80 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "16590";
-      document.getElementById("product").innerText = "11,460円/月";
+      document.getElementById("product").innerText = "16,590円/月";
     } else if (a == 81 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "18960";
-      document.getElementById("product").innerText = "12,960円/月";
+      document.getElementById("product").innerText = "18,960円/月";
     } else if (a == 82 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "21480";
-      document.getElementById("product").innerText = "14,700円/月";
+      document.getElementById("product").innerText = "21,480円/月";
     } else if (a == 83 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "24180";
-      document.getElementById("product").innerText = "16,770円/月";
+      document.getElementById("product").innerText = "24,180円/月";
     } else if (a == 84 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "27120";
-      document.getElementById("product").innerText = "19,080円/月";
+      document.getElementById("product").innerText = "27,120円/月";
     } else if (a == 85 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "30420";
-      document.getElementById("product").innerText = "21,660円/月";
+      document.getElementById("product").innerText = "30,420円/月";
     } else if (a == 86 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "34200";
-      document.getElementById("product").innerText = "24,630円/月";
+      document.getElementById("product").innerText = "34,200円/月";
     } else if (a == 87 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "38580";
-      document.getElementById("product").innerText = "28,050円/月";
+      document.getElementById("product").innerText = "38,580円/月";
     } else if (a == 88 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "43590";
-      document.getElementById("product").innerText = "32,100円/月";
+      document.getElementById("product").innerText = "43,590円/月";
     } else if (a == 89 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "49350";
-      document.getElementById("product").innerText = "36,630円/月";
+      document.getElementById("product").innerText = "49,350円/月";
     } else if (a == 90 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "56010";
-      document.getElementById("product").innerText = "41,760円/月";
+      document.getElementById("product").innerText = "56,010円/月";
     } else if (a == 91 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "63780";
-      document.getElementById("product").innerText = "47,610円/月";
+      document.getElementById("product").innerText = "63,780円/月";
     } else if (a == 92 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "72720";
-      document.getElementById("product").innerText = "54,570円/月";
+      document.getElementById("product").innerText = "72,720円/月";
     } else if (a == 93 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "82770";
-      document.getElementById("product").innerText = "62,460円/月";
+      document.getElementById("product").innerText = "82,770円/月";
     } else if (a == 94 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "93810";
-      document.getElementById("product").innerText = "71,070円/月";
+      document.getElementById("product").innerText = "93,810円/月";
     } else if (a == 95 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "105600";
-      document.getElementById("product").innerText = "80,610円/月";
+      document.getElementById("product").innerText = "105,600円/月";
     } else if (a == 96 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "117930";
-      document.getElementById("product").innerText = "89,610円/月";
+      document.getElementById("product").innerText = "117,930円/月";
     } else if (a == 97 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "130680";
-      document.getElementById("product").innerText = "99,000円/月";
+      document.getElementById("product").innerText = "130,680円/月";
     } else if (a == 98 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "143730";
-      document.getElementById("product").innerText = "108,840円/月";
+      document.getElementById("product").innerText = "143,730円/月";
     } else if (a == 99 && b == 2 && c == 3 && d == 1) {
       document.getElementById("premium").value = "157110";
-      document.getElementById("product").innerText = "119,130円/月";
+      document.getElementById("product").innerText = "157,110円/月";
     } else if (a == 50 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "18310";
-      document.getElementById("product").innerText = "6,810円/年";
+      document.getElementById("product").innerText = "18,310円/年";
     } else if (a == 51 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "19180";
-      document.getElementById("product").innerText = "7,270円/年";
+      document.getElementById("product").innerText = "19,180円/年";
     } else if (a == 52 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "20400";
-      document.getElementById("product").innerText = "7,800円/年";
+      document.getElementById("product").innerText = "20,400円/年";
     } else if (a == 53 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "21940";
-      document.getElementById("product").innerText = "8,340円/年";
+      document.getElementById("product").innerText = "21,940円/年";
     } else if (a == 54 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "23760";
-      document.getElementById("product").innerText = "8,970円/年";
+      document.getElementById("product").innerText = "23,760円/年";
     } else if (a == 55 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "25690";
-      document.getElementById("product").innerText = "9,680円/年";
+      document.getElementById("product").innerText = "25,690円/年";
     } else if (a == 56 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "27630";
-      document.getElementById("product").innerText = "10,420円/年";
+      document.getElementById("product").innerText = "27,630円/年";
     } else if (a == 57 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "29540";
-      document.getElementById("product").innerText = "11,150円/年";
+      document.getElementById("product").innerText = "29,540円/年";
     } else if (a == 58 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "31520";
-      document.getElementById("product").innerText = "11,890円/年";
+      document.getElementById("product").innerText = "31,520円/年";
     } else if (a == 59 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "33550";
-      document.getElementById("product").innerText = "12,750円/年";
+      document.getElementById("product").innerText = "33,550円/年";
     } else if (a == 60 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "35670";
-      document.getElementById("product").innerText = "13,780円/年";
+      document.getElementById("product").innerText = "35,670円/年";
     } else if (a == 61 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "37820";
-      document.getElementById("product").innerText = "15,140円/年";
+      document.getElementById("product").innerText = "37,820円/年";
     } else if (a == 62 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "40000";
-      document.getElementById("product").innerText = "16,650円/年";
+      document.getElementById("product").innerText = "40,000円/年";
     } else if (a == 63 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "42220";
-      document.getElementById("product").innerText = "18,190円/年";
+      document.getElementById("product").innerText = "42,220円/年";
     } else if (a == 64 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "44610";
-      document.getElementById("product").innerText = "19,720円/年";
+      document.getElementById("product").innerText = "44,610円/年";
     } else if (a == 65 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "47330";
-      document.getElementById("product").innerText = "21,540円/年";
+      document.getElementById("product").innerText = "47,330円/年";
     } else if (a == 66 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "50470";
-      document.getElementById("product").innerText = "23,480円/年";
+      document.getElementById("product").innerText = "50,470円/年";
     } else if (a == 67 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "54040";
-      document.getElementById("product").innerText = "25,460円/年";
+      document.getElementById("product").innerText = "54,040円/年";
     } else if (a == 68 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "57820";
-      document.getElementById("product").innerText = "27,630円/年";
+      document.getElementById("product").innerText = "57,820円/年";
     } else if (a == 69 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "61640";
-      document.getElementById("product").innerText = "29,930円/年";
+      document.getElementById("product").innerText = "61,640円/年";
     } else if (a == 70 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "65290";
-      document.getElementById("product").innerText = "32,530円/年";
+      document.getElementById("product").innerText = "65,290円/年";
     } else if (a == 71 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "68740";
-      document.getElementById("product").innerText = "35,490円/年";
+      document.getElementById("product").innerText = "68,740円/年";
     } else if (a == 72 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "71950";
-      document.getElementById("product").innerText = "38,670円/年";
+      document.getElementById("product").innerText = "71,950円/年";
     } else if (a == 73 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "75140";
-      document.getElementById("product").innerText = "41,790円/年";
+      document.getElementById("product").innerText = "75,140円/年";
     } else if (a == 74 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "78210";
-      document.getElementById("product").innerText = "45,290円/年";
+      document.getElementById("product").innerText = "78,210円/年";
     } else if (a == 75 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "81410";
-      document.getElementById("product").innerText = "49,650円/年";
+      document.getElementById("product").innerText = "81,410円/年";
     } else if (a == 76 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "85430";
-      document.getElementById("product").innerText = "55,000円/年";
+      document.getElementById("product").innerText = "85,430円/年";
     } else if (a == 77 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "91150";
-      document.getElementById("product").innerText = "61,480円/年";
+      document.getElementById("product").innerText = "91,150円/年";
     } else if (a == 78 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "99190";
-      document.getElementById("product").innerText = "69,170円/年";
+      document.getElementById("product").innerText = "99,190円/年";
     } else if (a == 79 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "109890";
-      document.getElementById("product").innerText = "77,900円/年";
+      document.getElementById("product").innerText = "109,890円/年";
     } else if (a == 80 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "121730";
-      document.getElementById("product").innerText = "86,720円/年";
+      document.getElementById("product").innerText = "121,730円/年";
     } else if (a == 81 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "135300";
-      document.getElementById("product").innerText = "96,800円/年";
+      document.getElementById("product").innerText = "135,300円/年";
     } else if (a == 82 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "150090";
-      document.getElementById("product").innerText = "108,070円/年";
+      document.getElementById("product").innerText = "150,090円/年";
     } else if (a == 83 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "165850";
-      document.getElementById("product").innerText = "120,650円/年";
+      document.getElementById("product").innerText = "165,850円/年";
     } else if (a == 84 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "182700";
-      document.getElementById("product").innerText = "134,720円/年";
+      document.getElementById("product").innerText = "182,700円/年";
     } else if (a == 85 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "201080";
-      document.getElementById("product").innerText = "150,060円/年";
+      document.getElementById("product").innerText = "201,080円/年";
     } else if (a == 86 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "221380";
-      document.getElementById("product").innerText = "166,120円/年";
+      document.getElementById("product").innerText = "221,380円/年";
     } else if (a == 87 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "243660";
-      document.getElementById("product").innerText = "183,430円/年";
+      document.getElementById("product").innerText = "243,660円/年";
     } else if (a == 88 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "267660";
-      document.getElementById("product").innerText = "202,370円/年";
+      document.getElementById("product").innerText = "267,660円/年";
     } else if (a == 89 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "293530";
-      document.getElementById("product").innerText = "223,170円/年";
+      document.getElementById("product").innerText = "293,530円/年";
     } else if (a == 90 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "321540";
-      document.getElementById("product").innerText = "246,320円/年";
+      document.getElementById("product").innerText = "321,540円/年";
     } else if (a == 91 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "351790";
-      document.getElementById("product").innerText = "271,420円/年";
+      document.getElementById("product").innerText = "351,790円/年";
     } else if (a == 92 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "384020";
-      document.getElementById("product").innerText = "299,580円/年";
+      document.getElementById("product").innerText = "384,020円/年";
     } else if (a == 93 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "417550";
-      document.getElementById("product").innerText = "329,970円/年";
+      document.getElementById("product").innerText = "417,550円/年";
     } else if (a == 94 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "451440";
-      document.getElementById("product").innerText = "359,510円/年";
+      document.getElementById("product").innerText = "451,440円/年";
     } else if (a == 95 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "484820";
-      document.getElementById("product").innerText = "385,050円/年";
+      document.getElementById("product").innerText = "484,820円/年";
     } else if (a == 96 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "517070";
-      document.getElementById("product").innerText = "412,890円/年";
+      document.getElementById("product").innerText = "517,070円/年";
     } else if (a == 97 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "548090";
-      document.getElementById("product").innerText = "441,580円/年";
+      document.getElementById("product").innerText = "548,090円/年";
     } else if (a == 98 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "578040";
-      document.getElementById("product").innerText = "471,240円/年";
+      document.getElementById("product").innerText = "578,040円/年";
     } else if (a == 99 && b == 1 && c == 1 && d == 2) {
       document.getElementById("premium").value = "607280";
-      document.getElementById("product").innerText = "501,950円/年";
+      document.getElementById("product").innerText = "607,280円/年";
     } else if (a == 50 && b == 2 && c == 1 && d == 2) {
       document.getElementById("premium").value = "12990";
       document.getElementById("product").innerText = "4,690円/年";
